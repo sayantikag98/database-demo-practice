@@ -4,9 +4,9 @@ const Book = require("./models/books");
 
 const app = express();
 
-const DBConnectionString = `mongodb+srv://Sayantikag:Sayantika98@database-practice.3cjpm.mongodb.net/dbPractice?retryWrites=true&w=majority`;
+const DBConnectionString = `mongodb+srv://Sayantikag:xxxxxxxx@database-practice.3cjpm.mongodb.net/dbPractice?retryWrites=true&w=majority`;
 // Username = Sayantikag
-// Password = Sayantika98
+// Password = xxxxxxxx
 // Database_name = dbPractice
 // change these three fields in the connection string that was copied from mongoDB site
 
